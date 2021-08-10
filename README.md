@@ -1,7 +1,7 @@
 #Felipe Vitória
 
 ### Fala pessoal 👋
-Sou apaixonado por tecnologia e trabalho a 3 anos na área de desenvolvimento web, tanto Front-End quanto Back-End.
+Sou apaixonado por tecnologia e trabalho a 2 anos na área de desenvolvimento web, tanto Front-End quanto Back-End.
 Hoje meu foco está no Front-End onde busco me especializar. :muscle:
 
 :bar_chart: &nbsp; Atualmente trabalho na **Inovyo** como desenvolvedor Front-End.
