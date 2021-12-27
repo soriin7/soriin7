@@ -4,7 +4,7 @@
 Sou apaixonado por tecnologia e trabalho a 2 anos na área de desenvolvimento web, tanto Front-End quanto Back-End.
 Hoje meu foco está no Front-End onde busco me especializar. :muscle:
 
-:bar_chart: &nbsp; Atualmente trabalho na **Inovyo** como desenvolvedor Front-End.
+:bar_chart: &nbsp; Atualmente trabalho na **Samsung** como desenvolvedor.
 <br/> 🤖 &nbsp; Tenho um projeto paralelo de um bot para Discord onde estou sempre adicionando novas funcionalidades com a ajuda de meus amigos.
 <br/> :computer: &nbsp; Minha stack: HTML, CSS, Javascript, React.js, Node.js, & Typescript.
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-FelipeVitória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipervitoria/)](https://www.linkedin.com/in/felipervitoria/) 
